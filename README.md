@@ -39,5 +39,7 @@
 </p>
 
 ## Statistics
-![](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/languages.svg#gh-dark-mode-only)
+<p>
+  ![Overview Of My Account's Statistics](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/overview.svg#gh-dark-mode-only)
+  ![Overview Of My Account's Programming Langauges](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/languages.svg#gh-dark-mode-only)
+</p>
