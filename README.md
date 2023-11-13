@@ -1,14 +1,5 @@
 # Welcome To My Profile
-
-## Pros & Cons
-```diff
-+ Precocious
-+ Logical Processing
-+ Communication Skills
-- Welsh
-- Numerical Proccessing
-- 
-```
+My name is Alfie and I currently reside in the UK. I have an accute interest in programming and ethical hacking and I've been using Linux/GNU since late 2020.
 
 ## Here's My Favourite Applications
 <p align="center">
@@ -20,8 +11,7 @@
 </p>
 
 ## Here's My Skill Set
----
-<p align="center" style="background: #519872;">
+<p align="center">
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -39,7 +29,5 @@
 </p>
 
 ## Statistics
-<p>
   ![Overview Of My Account's Statistics](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/overview.svg#gh-dark-mode-only)
   ![Overview Of My Account's Programming Langauges](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/languages.svg#gh-dark-mode-only)
-</p>
