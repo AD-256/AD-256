@@ -39,7 +39,5 @@
 </p>
 
 ## Statistics
-<a href="https://github.com/AD-256/AD-256">
-<img src="https://github.com/AD-256/AD-256/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/AD-256/AD-256/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+![](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/languages.svg#gh-light-mode-only)
