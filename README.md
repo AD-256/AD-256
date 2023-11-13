@@ -40,4 +40,4 @@
 
 ## Statistics
 ![](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/AD-256/AD-256/master/generated/languages.svg#gh-dark-mode-only)
