@@ -20,12 +20,17 @@ My name is Alfie and I currently reside in the UK. I have an accute interest in 
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg" />
+  <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original-wordmark.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
+  <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 </p>
 
 ## Statistics
